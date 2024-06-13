@@ -20,6 +20,7 @@ public class FirstTestWithParameters {
     void setup() {
         open(baseUrl);
     }
+
     @ValueSource(strings = {
             "Корм для кошек", "Корм для собак", "Пилка для ногтей"
     })
