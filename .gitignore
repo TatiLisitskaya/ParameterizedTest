@@ -2,9 +2,6 @@ HELP.md
 build/
 !**/src/main/**
 !**/src/test/**
-gradlew
-gradlew.bat
-.gitignore
 
 ### IntelliJ IDEA ###
 .idea
